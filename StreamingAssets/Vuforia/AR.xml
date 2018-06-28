@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="100RupeesNote" size="1.000000 0.461702" />
+    <ImageTarget name="MinC" size="1.000000 1.333333" />
+    <ImageTarget name="P_20180620_165023_vHDR_On-min" size="1.000000 1.333333" />
+    <ImageTarget name="P_20180621_172923_vHDR_On-min" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>
